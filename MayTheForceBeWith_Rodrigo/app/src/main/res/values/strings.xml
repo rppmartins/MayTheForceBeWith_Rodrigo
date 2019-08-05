@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MayTheForceBeWith_Rodrigo</string>
+    <string name="people">People:</string>
+    <string name="search">Search by name…</string>
+
+    <string name="height">Height:</string>
+    <string name="mass">Mass:</string>
+    <string name="hair_color">Hair Color:</string>
+    <string name="skin_color">Skin Color:</string>
+    <string name="eye_color">Eye Color:</string>
+    <string name="birth_year">Birth Year:</string>
+    <string name="gender">Gender:</string>
+    <string name="films">Number of Films:</string>
+    <string name="species">Number of Species:</string>
+    <string name="vehicles">Number of Vehicles:</string>
+    <string name="starships">Number of Starships:</string>
+</resources>
